@@ -2,9 +2,9 @@ package com.sparta.API;
 
 public class DnDDriver {
     public static void main(String[] args) {
-        RandomRace view = new RandomRace();
-
+        for (int i = 0; i <=10; i++) {
+            RandomRace view = new RandomRace();
+        }
 
     }
-
 }
